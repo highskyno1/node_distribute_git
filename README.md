@@ -22,7 +22,7 @@ The code of this project has a total of 5 files that can be directly executed, a
 ## Particle Initialization Method
 The initialization method can be better understood by executing the "main_plot_init_method.m" file. 
 - rand_circle.m: Generate random points with circular distribution. 
-- rand_square.mï¼Initialize points inside a square. 
+- rand_square.m: Initialize points inside a square. 
 - randn_circle.m: Generate random points inside a circle with normal distribution. 
 # Folder Description
 - author_exc_res: The results of the author's operation are placed in this folder. Directly running "main_para_gooup_analysis.m" or "main_ga_pso_analysis.m" calls the data in this folder, and can draw the same data graph as the paper.
