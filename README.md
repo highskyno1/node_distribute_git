@@ -1,3 +1,4 @@
+本文件的中文版本请见main下的“读我.md”。
 # Welcome
 This is the public code of an SCI paper of the author. After the paper is accepted and published, I will upload the relevant information of the paper. 
 # Foreword
