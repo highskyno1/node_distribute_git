@@ -1,6 +1,6 @@
 本文件的中文版本请见main下的“读我.md”。
 # Welcome
-This is the public code of an SCI paper. After the paper is accepted and published, I will upload the relevant information of the paper. 
+This is the public code of an SCI paper. After the paper is accepted and published, I will upload the relevant information of it. 
 # Foreword
 `Any use, copying, modification, derivation, or distribution of this code must indicate the source!`
 This code is used to test the time consumption and performance of the node deployment location planning algorithm. Based on the terrain description function, the algorithm designs a reasonable objective function under the premise of considering the free space of electromagnetic waves and diffraction loss. The k-means and PSO algorithms are used to optimize the location of routers and gateways, and the GA algorithm is introduced as a comparison. For details on this code, see Sections 4.1 and 4.2 of the paper. 
